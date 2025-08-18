@@ -19,9 +19,6 @@ Through taking 10,000 simulations and then finding the optimal path in each simu
 **Denver Broncos** playing the Titans, who ended 3-14 last season.  Vegas odds: 7.5 point favorites (highest odds for week 1)  
 The Jaguars are a riskier play for week 1, but allow for easier paths down the line as the season progresses.  
 
-Something common among paths was to select the **Cincinnati Bengals to win week 2**.  Historically, the Bengals have slow season starts, so I made them un-selectable in the first 4 weeks.  
-Last year, the Bengals lost to the Patriots (who ended 4-13) in week 1, where my model had them as 89% win probability  
-
 As more games are played, confidence in team strength increases, but here is a full example path:
 <img width="1017" height="42" alt="image" src="https://github.com/user-attachments/assets/8d0c537a-4281-4ae2-a530-81c195d672b9" />  
 This starts with the following matchups:  
